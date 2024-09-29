@@ -14,7 +14,7 @@
  <img src="installexpress.PNG"><br><br>
 <h2>And then install nodemon on your code editor terminal or in cmd - by run this command</h2>
 <h2>npm install nodemon</h2>
- <img src="installnodemon.PNG"><br><br>
+ <img src="installnodemom.PNG"><br><br>
  <h2>And then import cluster in your code</h2>
 <h2>const cluster = require("node:cluster");</h2>
  <img src="importcluster.PNG"><br><br>
